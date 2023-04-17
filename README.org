@@ -1,0 +1,9 @@
+#+TITLE: Readme
+
+* TelematicDanceAndLiveCodingECHO5
+
+Code for the paper "Telematic Dance and Live Coding" At ECHO Journal Issue 5.
+
+To run this code on SuperCollider you need to install the library extensions found in: https://github.com/iani/sc-hacks-redux
+
+SuperCollider version: 3.12.2.
